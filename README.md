@@ -20,14 +20,12 @@ It helps people who cannot speak communicate with those who don’t understand s
 - 🤖 **AI/ML**: MediaPipe, OpenCV, Random Forest (scikit-learn)  
 - 🔧 **IoT**: Arduino UNO, ESP8266, LCD Display (I2C)  
 - 📱 **Mobile**: MIT App Inventor  
-- 🔊 **TTS**: pyttsx3, gTTS  
 
 ---
 
 ## 🚀 Future Updates
 - 📝 Translate gestures into full words
 - 📊 Expand dataset for better accuracy
-
 - ☁️ Cloud integration for remote usage
 
 ---
