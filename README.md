@@ -1,4 +1,5 @@
 # 🖐️ Hand Gestures Translator  
+![Project_Image](https://github.com/user-attachments/assets/2b4af766-afb5-46de-b7ad-a40fafbc198c)
 
 A real-time **Sign Language Recognition System** that translates hand gestures into **text and speech**, supporting **English and Arabic alphabets** and **digits**.  
 It helps people who cannot speak communicate with those who don’t understand sign language.  
@@ -26,6 +27,7 @@ It helps people who cannot speak communicate with those who don’t understand s
 ## 🚀 Future Updates
 - 📝 Translate gestures into full words
 - 📊 Expand dataset for better accuracy
+
 - ☁️ Cloud integration for remote usage
 
 ---
